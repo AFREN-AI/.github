@@ -2,7 +2,7 @@
 
 # **Welcome to Afren AI**
 
-![Afren AI Logo](https://raw.githubusercontent.com/AfrenAI/.github/main/afren_logo.png)
+![Afren AI Logo](/afren_logo.png)
 
 ## **Building the future, one dream at a time**
 
